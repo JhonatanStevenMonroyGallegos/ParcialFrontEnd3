@@ -1,5 +1,7 @@
 # ParcialFrontEnd3
-Este es el primer parcial de front end 3 de la camada 9
+//Este es el primer parcial de front end 3 de la camada 9
+
+
 import "./App.css";
 import { useState } from "react";
 import FormInput from "./Components/FormInput";
